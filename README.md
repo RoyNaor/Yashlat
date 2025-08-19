@@ -26,8 +26,6 @@ Yashlat (Warriors CRM) is a full-stack web application designed to manage warrio
 - **tailwind.config.js** – TailwindCSS setup  
 - **tsconfig.json** – TypeScript configuration  
 - **package.json / package-lock.json** – Project dependencies and scripts  
-- **serviceAccountKey.json.json** – Firebase service account key (⚠️ Do not commit secrets in production)
-
 ---
 
 ##  Tech Stack
